@@ -5,7 +5,7 @@ At 24 years old, I consider myself a curious person, always seeking new challeng
 
 I’m currently learning next and TypeScript.
 
-My known tecnologies to this day are: JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgreSQL
+My known tecnologies to this day are: JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgreSQL | Next
 
 You can contact me here: lucasfidel99@gmail.com or https://www.linkedin.com/in/lucas-fidel-ledesma-915589267/
 
@@ -17,7 +17,7 @@ A mis 24 años me considero una persona curiosa, siempre en busca de nuevos reto
 
 Actualmente estoy aprendiendo Next y TypeScript.
 
-Mis tecnologías conocidas hasta el día de hoy son: JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgresSQL 
+Mis tecnologías conocidas hasta el día de hoy son: JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgresSQL |Next
 
 Puedes contactarme aquí: lucasfidel99@gmail.com o https://www.linkedin.com/in/lucas-fidel-ledesma-915589267
 
