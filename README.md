@@ -7,7 +7,7 @@ I’m currently learning Nest.
 
 My known tecnologies to this day are: JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgreSQL | Next | typescript
 
-You can contact me here: lucasfidel99@gmail.com or https://www.linkedin.com/in/lucas-fidel-ledesma-915589267/
+You can contact me here: lucasfidel99@gmail.com or https://www.linkedin.com/in/lucas-fidel-ledesma
 
 ES:
 
@@ -19,7 +19,7 @@ Actualmente estoy aprendiendo Nest.
 
 Mis tecnologías conocidas hasta el día de hoy son: JavaScript | React | NodeJS | HTML | CSS | Express | Sequelize | PostgresSQL | Next | typescript
 
-Puedes contactarme aquí: lucasfidel99@gmail.com o https://www.linkedin.com/in/lucas-fidel-ledesma-915589267
+Puedes contactarme aquí: lucasfidel99@gmail.com o https://www.linkedin.com/in/lucas-fidel-ledesma
 
 -Coding HTML CSS JavaScript
 
