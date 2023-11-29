@@ -1,3 +1,5 @@
+![](https://github.com/Lucas-Ledesma/icons-gif/blob/main/21116158daaeb1459b4ec0758505e1ad.gif)
+
 Hi there!
 Hello! I'm Lucas, an Argentine developer.
 
