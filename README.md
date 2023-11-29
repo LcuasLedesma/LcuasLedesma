@@ -7,7 +7,9 @@
 
 ES:
 
-A mis 24 años me considero una persona curiosa, siempre en busca de nuevos retos y oportunidades para aprender. Disfruto trabajando en equipo, colaborando con otros profesionales para crear soluciones innovadoras y de alta calidad.
+Acerca de mi:
+
+Soy un apasionado desarrollador que se dedica a encontrar soluciones óptimas y eficientes para los desafíos que se presentan. Disfruto manteniéndome al tanto de las últimas tecnologías y tendencias en el mundo de la informática, siempre comprometido con un aprendizaje continuo. No temo enfrentarme a nuevos retos y me destaco en el trabajo en equipo, promoviendo la comunicación de ideas para mejorar tanto mi desempeño personal como el del grupo.
 
 Mis tecnologías conocidas hasta el día de hoy son: 
 
@@ -19,7 +21,7 @@ Puedes contactarme aquí:
 
 EN:
 
-At 24 years old, I consider myself a curious person, always seeking new challenges and opportunities to learn. I enjoy working in teams, collaborating with other professionals to create innovative and high-quality solutions.
+I am a passionate developer dedicated to finding optimal and efficient solutions to challenges. I enjoy staying informed about the latest technologies and trends in the IT world, always committed to continuous learning. I'm not afraid of facing new challenges and excel in teamwork, promoting the exchange of ideas to enhance both my individual performance and that of the group.
 
 My known tecnologies to this day are:
 
