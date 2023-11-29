@@ -1,11 +1,9 @@
-<h1>Hola 👋, mi nombre es Lucas. ¡Bienvenido!</h1>
+<h1>Hola 👋, mi nombre es Lucas un desarrollador argentino. ¡Bienvenido!</h1>
 
 ![](https://github.com/Lucas-Ledesma/icons-gif/blob/main/21116158daaeb1459b4ec0758505e1ad.gif)
 
 
 ES:
-
-¡Hola! Soy Lucas, un desarrollador argentino.
 
 A mis 24 años me considero una persona curiosa, siempre en busca de nuevos retos y oportunidades para aprender. Disfruto trabajando en equipo, colaborando con otros profesionales para crear soluciones innovadoras y de alta calidad.
 
@@ -17,8 +15,7 @@ Puedes contactarme aquí:
 
 <a href=https://www.linkedin.com/in/lucas-fidel-ledesma>![<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a> [![Email](https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasfidel99@gmail.com) 
 
-Hi there!
-Hello! I'm Lucas, an Argentine developer.
+EN:
 
 At 24 years old, I consider myself a curious person, always seeking new challenges and opportunities to learn. I enjoy working in teams, collaborating with other professionals to create innovative and high-quality solutions.
 
