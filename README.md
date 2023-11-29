@@ -1,4 +1,6 @@
-<h1>Hola 👋, mi nombre es Lucas un desarrollador argentino. ¡Bienvenido!</h1>
+<h1>Hola 👋, mi nombre es Lucas ¡Bienvenido!</h1>
+
+<p>Vivo en Argentina y me apasiona el mundo IT y el desarrollo</p>
 
 ![](https://github.com/Lucas-Ledesma/icons-gif/blob/main/21116158daaeb1459b4ec0758505e1ad.gif)
 
